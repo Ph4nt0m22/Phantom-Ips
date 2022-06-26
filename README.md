@@ -5,5 +5,5 @@ Usage- python Phantom.py {ip}
 or  
 Usage- python Phantom.py
 
-With the first option your results with print immediately
+With the first option your results with print immediately  
 In the second option, you will be able to check multiple ips and save the results

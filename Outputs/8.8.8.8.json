@@ -1,0 +1,13 @@
+{  
+  "as": "AS15169 Google LLC",  
+  "city": "Ashburn",  
+  "country": "United States",  
+  "isp": "Google LLC",  
+  "org": "Google Public DNS",  
+  "proxy": false,  
+  "query": "8.8.8.8",  
+  "region": "VA",  
+  "regionName": "Virginia",  
+  "status": "success",  
+  "zip": "20149"  
+}
